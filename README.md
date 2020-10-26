@@ -20,7 +20,14 @@ Lets get started.
 ---
 
 Student ID | Movie | Year of Release 
----|---|---|
+--- | --- | ---
+1929348 | Dark Knight | 2009
+1929348| Avengers | 2001
+1929348| Avengers Endgame | 2019
+1929348| Captain Marvel| 2019
+1929348| Thor Ragnarok | 2017
+1919325| Avengers Endgame | 2019
+1919325| Spider-Man Homecoming | 2017
 1919325| Avengers Endgame | 2019
 1919325| Spider-Man Homecoming | 2017
 1919325| Shrek | 2001
@@ -51,8 +58,17 @@ Student ID | Movie | Year of Release
 1920389 | Jurassic Park 1 | 1992
 1920389 |  Fight CLub | 1999
 1920389 | The Wolf of Wallstreet | 2013
+<<<<<<< HEAD
 1942300	| The Italian Job | 2003
 1942300	| Mechanic: Resurrection | 2016
 1942300	| Hitman: Agent 47 | 2015
 1942300	| Harry Potter and the Deathly Hallows - Part I | 2010
 1942300	| Harry Potter and the Deathly Hallows – Part 2 | 2011
+=======
+1945582 | The Internship | 2013
+1945582 | Avengers: Endgame | 2019
+1945582 | Iron Man | 2008
+1945582 | The Social Network | 2010
+1945582 | Thunderbirds | 2004
+1920389 | The Wolf of Wallstreet | 2013
+>>>>>>> 2926ae1a8f0fab7aada6219ee742c54f109f3658
