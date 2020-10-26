@@ -51,3 +51,8 @@ Student ID | Movie | Year of Release
 1920389 | Jurassic Park 1 | 1992
 1920389 |  Fight CLub | 1999
 1920389 | The Wolf of Wallstreet | 2013
+1942300	| The Italian Job | 2003
+1942300	| Mechanic: Resurrection | 2016
+1942300	| Hitman: Agent 47 | 2015
+1942300	| Harry Potter and the Deathly Hallows - Part I | 2010
+1942300	| Harry Potter and the Deathly Hallows – Part 2 | 2011
